@@ -1,0 +1,6 @@
+﻿  Pacman.c
+c:\users\hong\documents\visual studio 2015\javascript\project\reverse\graphics temp\graphics temp\pacman.c(785): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\hong\documents\visual studio 2015\javascript\project\reverse\graphics temp\graphics temp\pacman.c(787): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\hong\documents\visual studio 2015\javascript\project\reverse\graphics temp\graphics temp\pacman.c(791): warning C4113: 'void (__cdecl *)(unsigned char)'은(는) 'void (__cdecl *)(unsigned char,int,int)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\hong\documents\visual studio 2015\javascript\project\reverse\graphics temp\graphics temp\pacman.c(792): warning C4113: 'void (__cdecl *)(int)'은(는) 'void (__cdecl *)(int,int,int)'과(와) 매개 변수 목록이 다릅니다.
+  Graphics temp.vcxproj -> C:\Users\hong\Documents\Visual Studio 2015\JavaScript\Project\reverse\Graphics temp\Debug\Graphics temp.exe
